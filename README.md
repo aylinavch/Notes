@@ -13,5 +13,7 @@ I've been putting down some tips I've found on internet and everywhere about dif
 ## Bibliography
 - Lathi, B. P. & Green R.A. (2014). _Essentials of Digital Signal Processing._ Cambridge University Press.
 - Semmlow, J. L. & Griffel B. (2014). _BIOSIGNAL and MEDICAL IMAGE PROCESSING. Third Edition._ CRC Press.
-- [Geekforgeeks blog](www.geeksforgeeks.org)
-- [Python Documentation](docs.python.org)
+- [Geekforgeeks blog](https://geeksforgeeks.org)
+- [Python Documentation](https://docs.python.org)
+- [Real Python](https://realpython.com)
+- [Dan Bader blog](https://dbader.org)
